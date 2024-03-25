@@ -3,6 +3,7 @@
 ### Requisitos essenciais para rodar esse projeto
 - Subir a infra conforme ensinada [aqui](https://github.com/JonasBarros1998/ecommerce-infra/blob/main/README.md)
 - Inicie o container do banco de dados ensinado [aqui](https://github.com/JonasBarros1998/ecommerce-infra/tree/main?tab=readme-ov-file#banco-de-dados)
+- Substitua todos os ADD_ pelas informações presentes no `application.yml`
 
 ### Como iniciar o projeto
 - Instale todas as dependências necessárias para o projeto
